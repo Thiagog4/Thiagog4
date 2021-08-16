@@ -1,7 +1,6 @@
 ### Olá, bem vindo! 👋
 
-- 🔭 Hoje trabalho com Blazor
-- 🌱 Hoje estudo JS#
+
 
 <div>
   <a href="https://github.com/Thiagog4">
