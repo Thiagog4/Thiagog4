@@ -1,5 +1,9 @@
 ### Olá, bem vindo! 👋
 
+Desenvolvedor front-end
+Desenvolvedor ASP-NET
+Estudando ReactJS
+
 
 
 <div>
