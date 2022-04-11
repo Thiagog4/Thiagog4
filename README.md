@@ -1,7 +1,7 @@
 ### Olá, bem vindo! 👋
 
 <p>Desenvolvedor front-end</p>
-<p>Desenvolvedor ASP-NET</p>
+<p>Desenvolvedor .NET</p>
 <p>Estudando ReactJS</p>
 
 
