@@ -1,6 +1,6 @@
 ### Olá, bem vindo! 👋
 
-<p>Desenvolvedor front-end</p>
+<p>Desenvolvedor Full-Stack</p>
 <p>Desenvolvedor .NET</p>
 <p>Estudando ReactJS</p>
 
