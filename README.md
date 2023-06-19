@@ -1,10 +1,7 @@
 ### Olá, bem vindo! 👋
 
 <p>Desenvolvedor Full-Stack</p>
-<p>Desenvolvedor .NET</p>
-<p>Estudando ReactJS</p>
-
-
+<p>Desenvolvedor web e mobile(.NET, NET MAUI, BLAZOR, REACT, NODE, FLUTTER)</p>
 
 <div>
   <a href="https://github.com/Thiagog4">
