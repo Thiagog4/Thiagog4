@@ -1,7 +1,7 @@
 ### Olá, bem vindo! 👋
 
 <p>Desenvolvedor Full-Stack</p>
-<p>Desenvolvedor web e mobile(.NET, NET MAUI, BLAZOR, REACT, NODE, FLUTTER)</p>
+<p>Desenvolvedor web e mobile(.NET, BLAZOR, REACT, FLUTTER)</p>
 
 <div>
   <a href="https://github.com/Thiagog4">
