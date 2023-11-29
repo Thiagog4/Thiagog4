@@ -7,6 +7,7 @@
   <a href="https://github.com/Thiagog4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagog4&show_icons=true&theme=dark" alt="thiago stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagog4&layout=compact&langs_count=7&theme=dark"/>
+    <a href="https://app.daily.dev/thiagog4"><img src="https://api.daily.dev/devcards/aa793260bc53494f88649bec471f314f.png?r=enw" width="400" alt="Thiago Jose Guedes's Dev Card"/></a>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
