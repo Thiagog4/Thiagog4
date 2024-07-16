@@ -1,6 +1,6 @@
-### Olá, bem vindo! 👋
+### Hello, Welvome! 👋
 
-<p>Full-Stack developer(.NET, BLAZOR, REACT, FLUTTER)</p>
+<p>Full-Stack developer(.NET, BLAZOR, REACT, FLUTTER, NEXT, TAILWIND)</p>
 
 <div>
   <a href="https://github.com/Thiagog4">
