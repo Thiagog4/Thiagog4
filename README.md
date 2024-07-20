@@ -5,7 +5,7 @@
 <div>
   <a href="https://github.com/Thiagog4">
   <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Thiagog4&show_icons=true&theme=dracula&count_private=true">
-  <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Thiagog4&layout=compact&theme=dracula">
+  <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Thiagog4&layout=compact&theme=dracula&count_private=true">
   
 </div>
   <div style="display: inline_block"><br>
