@@ -61,8 +61,8 @@ public sealed class Thiago : Developer
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Thiagog4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagog4&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=0d1117" />
+<img height="165em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Thiagog4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+<img height="165em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Thiagog4&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=0d1117" />
 
 <br/>
 
