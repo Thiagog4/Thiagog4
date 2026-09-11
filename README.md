@@ -88,16 +88,13 @@ public sealed class Thiago : Developer
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/thiagog4" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:SEU-EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://wa.me/55SEUNUMERO" target="_blank">
+<a href="https://wa.me/5514998996169" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-<a href="https://instagram.com/SEU-INSTAGRAM" target="_blank">
+<a href="https://instagram.com/thiagoguedesdev" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
