@@ -103,3 +103,5 @@ public sealed class Thiago : Developer
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </div>
+
+<!-- atualizado em 2026-11-02 -->
